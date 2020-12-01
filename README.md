@@ -12,23 +12,33 @@ Segue, abaixo, um pouco do que foi contemplado ao longo do bootcamp:
 ## Fundamentos
 
 → Introdução ao ML
+
 → Regressão, Classificação e Clusterização
+
 → Aplicação de Algoritmos de Machine Learning
 
 ## Modelos Preditivos e Séries Temporais
 
 → Modelagem Preditiva
+
 → Séries Temporais
+
 → Overfitting, Resampling, etc
+
 → Métricas de Desempenho
+
 → Validação Cruzada
+
 → Sintonia de Hiperparâmetros
 
 ## Metodologias de Aprendizado
 
 → Exploração e Generalização
+
 → Aprendizado Supervisionado
+
 → Aprendizado não-supervisionado
+
 → Aprendizado por Reforço
 
 ### Autor
